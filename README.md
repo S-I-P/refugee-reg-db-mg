@@ -1,7 +1,5 @@
 # Refugee Registration Database Management
 
-About: Oracle database, Oracle JDBC, and JavaFX GUI refugee registration management system
-
 This is a database project for CSE 216: Database Sessional. This project implements a simple refugee registration system using Oracle Database 11g, the Oracle JDBC driver, and JavaFX GUI. At the core of this project are Oracle SQL commands that demonstrate insert, query, update, and delete operations in a database.
 
 ![](img.png)
